@@ -1,0 +1,12 @@
+/*you can type anything you want in here*/
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color:#040305;
+    background-color: antiquewhite;
+    text-align: center;
+}
+.topnav {
+    overflow: hidden;
+    background-color: gray;
+}
